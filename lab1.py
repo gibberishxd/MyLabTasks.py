@@ -1,5 +1,7 @@
 import math
 
+#Обчислити об'єми циліндра і конуса, що мають однакову висоту H і однаковий радіус основи R
+
 print("Enter height ")
 h = input()
 print("Enter Radius ")
