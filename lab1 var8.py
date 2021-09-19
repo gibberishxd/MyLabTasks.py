@@ -7,7 +7,7 @@ h = input()
 print("Enter Radius ")
 r = input()
 
-S = int(math.pi) * int(r) ** 2 * int(h)
+S = float(math.pi) * float(r) ** 2 * float(h)
 r = S / 3
 
 print("Volume of Cylinder", S)
